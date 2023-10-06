@@ -1,4 +1,4 @@
-![image](https://github.com/seishinshi/seishinshi/assets/141852831/2d09c9d6-5b25-41f7-b892-49051b53f63f)- 👋 Hi, I’m @seishinshi
+👋 Hi, I’m @seishinshi
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning Java ![image](https://github.com/seishinshi/seishinshi/assets/141852831/0ef1dbc8-4ff4-4c52-8173-5d4aea7aefb7)
 - 💞️ I’m looking to collaborate on ...
