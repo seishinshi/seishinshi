@@ -1,6 +1,6 @@
-👋 Hi, I’m @seishinshi
+👋 Hi, I’m Joaquin!
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Java ![image](https://github.com/seishinshi/seishinshi/assets/141852831/0ef1dbc8-4ff4-4c52-8173-5d4aea7aefb7)
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
